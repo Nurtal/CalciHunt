@@ -1,0 +1,1637 @@
+ID,LOC1,LOC2,LOC3,PREDICTED
+A2M,plasma protein,nan,nan,extracellular
+ABCC8,PM,nan,nan,membrane
+ABCC9,PM,nan,nan,membrane
+ABHD2,ER membrane,nan,nan,membrane
+ACTN1,cytosol,nan,nan,cytoskeleton / cytosol
+ACTN2,cytosol,nan,nan,cytoskeleton / cytosol
+ACTN3,cytosol,nan,nan,extracellular / cytoskeleton / cytosol
+ACTN4,cytosol,nan,nan,nucleus / cytosol
+ADAM10,PM,Golgi apparatus ,nan,membrane / extracellular / nucleus / plasma
+ADAMTS13,nan,enzyme,nan,extracellular / reticulum
+ADCY1,PM-bound,nan,nan,membrane
+ADCY10,cytosol,nan,nan,nucleus / cytosol
+ADCY5,PM-bound,nan,nan,membrane
+ADCY6,PM-bound,nan,nan,membrane
+ADCY8,PM-bound,nan,nan,membrane
+ADD1 ,PM,PM-bound,cytosol,NA
+ADD2 ,PM,PM-bound,cytosol,NA
+ADD3,PM,PM-bound,cytosol,membrane / cytoskeleton / cytosol
+ADRA1A,nan,nan,nan,membrane / nucleus
+ADRA1B,nan,nan,nan,membrane / nucleus
+ADRA1D,nan,nan,nan,membrane
+ADRA2A ,nan,nan,nan,NA
+AGTR1 ,nan,nan,nan,NA
+AHCYL1,cytosol,nan,nan,cytosol
+AHCYL2,cytosol,nan,nan,cytosol
+AIF1,cytosol,nan,nan,membrane / nucleus / cytosol
+AIF1L,cytosol,nan,nan,cytoskeleton
+AKAP11,cytosol,nan,nan,cytoskeleton / nucleus / cytosol
+AKAP12,cytosol,nan,nan,membrane / cytosol
+AKAP5,cytosol,nan,nan,membrane / endosome / cytosol
+AKT1,Cytosol,PM-bound,nan,membrane / cytoskeleton / nucleus / cytosol
+ALG2,EH hand,nan,nan,cytoskeleton / reticulum / cytosol
+ALOX15,Plat Domain,enzyme,arachidonic acid,membrane / cytosol
+ALOX15B,Plat Domain,enzyme,arachidonic acid,membrane / cytoskeleton / nucleus / cytosol
+ALOX5,PLAT domain,enzyme,arachidonic acid,nucleus / cytosol
+ALOX5AP,nan,nan,arachidonic acid,nucleus / reticulum
+AMN,Endosome membrane,Membrane-bound,nan,membrane / extracellular
+ANK2,PM-bound,nan,nan,membrane / cytosol
+ANKEF1,Cytosol,PM-bound,nan,cytosol
+ANO1,PM,nan,nan,membrane / nucleus
+ANO10 ,PM,nan,nan,NA
+ANO2,PM,nan,nan,membrane / nucleus
+ANO3 ,PM,nan,nan,NA
+ANO4 ,PM,nan,nan,NA
+ANO5,PM,nan,nan,membrane
+ANO6 ,PM,nan,nan,NA
+ANO7 ,PM,nan,nan,NA
+ANO8 ,ER membrane,nan,nan,NA
+ANO9 ,PM,nan,nan,NA
+ANXA1 ,PM-bound,nan,nan,NA
+ANXA10,PM-bound,nan,nan,extracellular / nucleus / cytosol
+ANXA11,PM-bound,nan,nan,extracellular / cytoskeleton / nucleus / cytosol / lysosome
+ANXA13,PM-bound,nan,nan,membrane / nucleus
+ANXA2,PM-bound,nan,nan,membrane / extracellular / nucleus / endosome / lysosome
+ANXA3,PM-bound,nan,nan,membrane
+ANXA4,PM-bound,nan,nan,membrane / nucleus
+ANXA5,PM-bound,nan,nan,extracellular / cytosol
+ANXA6,PM-bound,nan,nan,endosome / lysosome
+ANXA7,PM-bound,nan,nan,nucleus / reticulum
+ANXA8,PM-bound,nan,nan,membrane / endosome / cytosol
+ANXA9,PM-bound,nan,nan,cytosol
+APBA1,nan,nan,nan,cytosol
+APBB1IP ,PM,nan,nan,NA
+APC,PM-bound,cytosol,nan,membrane / cytoskeleton / nucleus / cytosol
+APCS,nan,nan,nan,extracellular
+APP,PM,early endosome,nan,membrane / extracellular / mitochondrion / nucleus / plasma / endosome / cytosol
+APP,nan,nan,nan,membrane / extracellular / mitochondrion / nucleus / plasma / endosome / cytosol
+ARF1,nan,nan,interacts with NCS-1,cytosol
+ARF6,nan,nan,ORAI1 exocytosis,membrane / endosome / cytosol
+ARPP21 ,cytosol,nan,nan,NA
+ASIC1,PM,nan,nan,membrane
+ASIC2,PM,nan,nan,membrane
+ASIC3,PM,nan,nan,membrane
+ASIC4,PM,nan,nan,membrane
+ASPH,ER membrane,nan,nan,membrane / plasma
+ASPH,nan,nan,nan,membrane / plasma
+ASPM,cytosol,nucleus,nan,nucleus
+ASTN2 ,endosome membrane,PM,nan,NA
+ATAD3A,nan,nan,nan,mitochondrion
+ATF1,Nucleus,nan,nan,nucleus
+ATF2 ,Nucleus,nan,nan,NA
+ATP13A2,nan,nan,nan,endosome / lysosome
+ATP2A1,ER membrane,nan,nan,endoplasmic
+ATP2A2,ER membrane,nan,nan,membrane / plasma
+ATP2A3,ER membrane,nan,nan,endoplasmic
+ATP2B1,PM,nan,nan,membrane / nucleus
+ATP2B2,PM,nan,nan,membrane
+ATP2B3,PM,nan,nan,membrane
+ATP2B4,ER membrane,nan,nan,membrane
+ATP2C1,Golgi membre,PM,nan,membrane / golgi
+ATP2C2,Golgi membre,PM,nan,membrane / plasma
+ATP5F1B,mitochondria inner membrane,nan,nan,membrane / mitochondrion
+AVIL,cytosol,nan,nan,cytoskeleton
+AVPR1A ,nan,nan,nan,NA
+AVPR1B,nan,nan,nan,membrane
+BAIAP3,nan,nan,nan,membrane / endosome / cytosol
+BAK1,mitochondria outer membrane,ER membrane,nan,mitochondrion
+BANK1,cytosol,nan,nan,cytosol
+BAP1,cytosol,nucleus,nan,nucleus / cytosol
+BASP1,PM-bound,cytosol,nan,membrane / nucleus
+BAX,mitochondria outer membrane,ER membrane,nan,mitochondrion / nucleus / reticulum / cytosol
+BCAP31,nan,MAM,nan,membrane / plasma
+BCAP31 ,ER membrane,mitochondria-associated membranes,nan,NA
+BCL2,cytosol,nan,nan,mitochondrion / nucleus / reticulum / cytosol
+BCL2L1,cytosol,nan,nan,cytoskeleton / mitochondrion / nucleus / cytosol
+BCL2L10,ER membrane,mitochondria-associated membranes,nan,mitochondrion / nucleus / reticulum / cytosol
+BDKRB1,nan,nan,nan,membrane
+BDKRB2,nan,nan,nan,membrane
+BEST1,PM,ER membrane,nan,membrane
+BEST2,PM,ER membrane,nan,membrane
+BEST3,PM,ER membrane,nan,membrane
+BEST4,PM,ER membrane,nan,membrane
+BIN1,Channel localization,nan,nan,cytosol
+BLNK ,cytosol,nan,nan,NA
+BMP1,metalloprotease,nan,nan,extracellular
+BOK,MAM,nan,nan,nucleus / reticulum
+BOK ,ER membrane,nan,nan,NA
+BRSK1 ,cytosol,nucleus,nan,NA
+BTK,PM-bound,cytosol,nan,membrane / nucleus / cytosol
+C2CD2L ,PM,ER membrane,nan,NA
+C2CD5,PM,vesicles,nan,membrane / cytosol
+C2CD5,C2 domain-containing protein,nan,nan,membrane / cytosol
+C2CD6,nan,nan,nan,nucleus
+C3AR1,nan,nan,nan,membrane
+C4orf3,PM,nan,nan,NA
+C5AR1,nan,nan,nan,membrane
+C5AR2,nan,nan,nan,membrane
+CAB39,cytosol,nan,nan,cytosol
+CAB39L,nan,nan,nan,cytosol
+CABIN1,cytosol,nan,nan,nucleus / cytosol
+CABP1,PM,Golgi apparatus ,cytoskeleton,membrane
+CABP2,PM,Golgi apparatus ,nan,membrane
+CABP4,PM,Golgi apparatus ,nan,extracellular / cytosol
+CABP5,cytosol,nan,nan,cytosol
+CABP7,PM,Golgi apparatus ,nan,membrane
+CABYR,cytosol,nucleus,cytoskeleton,nucleus
+CACFD1,PM,vesicles,nan,membrane
+CACHD1,nan,nan,nan,membrane
+CACNA1A,PM,nan,nan,membrane / nucleus
+CACNA1B,PM,nan,nan,membrane
+CACNA1C,PM,nan,nan,membrane
+CACNA1D,PM,nan,nan,membrane
+CACNA1E,PM,nan,nan,membrane
+CACNA1F,PM,nan,nan,membrane
+CACNA1G,PM,nan,nan,membrane
+CACNA1H,PM,nan,nan,membrane
+CACNA1I,PM,nan,nan,membrane
+CACNA1S,PM,nan,nan,membrane
+CACNA2D1,PM-bound,nan,nan,membrane
+CACNA2D2,PM-bound,nan,nan,membrane
+CACNA2D3,PM-bound,nan,nan,membrane
+CACNA2D4,PM-bound,nan,nan,membrane
+CACNB1,PM-bound,nan,nan,membrane
+CACNB2,PM-bound,nan,nan,membrane
+CACNB3,PM-bound,nan,nan,membrane
+CACNB4,PM-bound,nan,nan,membrane
+CACNG1,PM-bound,nan,nan,membrane
+CACNG2,PM-bound,nan,nan,membrane
+CACNG3,PM-bound,nan,nan,membrane
+CACNG4,PM-bound,nan,nan,membrane
+CACNG5,PM-bound,nan,nan,membrane
+CACNG6,PM-bound,nan,nan,membrane
+CACNG7,PM-bound,nan,nan,membrane
+CACNG8,PM-bound,nan,nan,membrane
+CACYBP,nan,nan,nan,nucleus / cytosol
+CADPS,vesicles,nan,nan,cytosol
+CADPS2,vesicles,nan,nan,mitochondrion / cytosol
+CALB1,cytosol,nucleus,nan,nucleus
+CALB2,cytosol,nucleus,nan,cytosol
+CALCOCO1,cytosol,nucleus,nan,nucleus / cytosol
+CALCOCO2,autophagosome membrane,cytoskeleton,perinuclear region,nucleus / cytosol
+CALCR,nan,nan,nan,membrane
+CALD1,cytoskeleton,myofibril,nan,membrane / cytoskeleton / cytosol
+CALHM1 ,PM,ER membrane,nan,NA
+CALHM2,PM,nan,nan,membrane
+CALHM3,PM,nan,nan,membrane
+CALHM4,PM,nan,nan,membrane / extracellular
+CALHM5,PM,nan,nan,membrane
+CALHM6,PM,nan,nan,membrane
+CALM1,cytosol,nan,nan,membrane / cytoskeleton
+CALM2,cytosol,nan,nan,membrane / cytoskeleton
+CALM3,cytosol,nan,nan,membrane / cytoskeleton
+CALML3,nucleus,nan,nan,extracellular
+CALML4,Golgi apparatus,nucleus,cytosol,nucleus / cytosol
+CALML5,cytosol,nucleus,nan,extracellular / cytosol
+CALML6,??,nan,nan,cytosol
+CALN1,Golgi membre,PM,ER membrane,membrane
+CALR,ER lumen,nan,nan,extracellular / nucleus / reticulum / cytosol
+CALU,ER membrane,golgi apparatus ,nan,extracellular
+CALY,nan,nan,nan,membrane
+CAMK1,cytosol,nucleus,nan,cytosol
+CAMK1D,cytosol,nucleus,nan,nucleus
+CAMK1G,cytosol,nucleus,nan,membrane / cytosol
+CAMK2A,cytosol,nucleus,nan,nucleus / cytosol
+CAMK2B ,cytosol,nucleus,nan,NA
+CAMK2D ,cytosol,nucleus,nan,NA
+CAMK2G ,cytosol,nucleus,nan,NA
+CAMK2N1,cytosol,nan,nan,nucleus
+CAMK2N2,cytosol,nan,nan,nucleus / cytosol
+CAMK4,cytosol,nucleus,nan,nucleus
+CAMKK1,cytosol,nucleus,nan,nucleus / cytosol
+CAMKK2,cytosol,nucleus,nan,nucleus / cytosol
+CAMKMT,cytosol,nucleus,nan,nucleus
+CAMKV,PM-bound,vesicles,nan,membrane / nucleus / cytosol
+CAMLG,nan,nan,nan,endoplasmic
+CAMSAP1,nan,nan,nan,nucleus
+CAMSAP2,nan,nan,nan,cytosol
+CAMSAP3,nan,nan,nan,cytoskeleton / nucleus
+CAMTA1,nucleoplasm,nan,nan,nucleus / cytosol
+CAMTA2,nucleoplasm,nan,nan,nucleus
+CANT1,nan,nan,nan,membrane / extracellular / plasma
+CANX,ER lumen,nan,nan,extracellular / reticulum
+CAPG,nan,nan,nan,cytoskeleton / nucleus
+CAPN1,cytosol,PM-bound,nan,membrane / cytosol
+CAPN10,nan,nan,nan,cytosol
+CAPN11,cytosol,acrosome,nan,cytosol
+CAPN12,cytosol,nan,nan,nucleus
+CAPN13,cytosol,nan,nan,nucleus
+CAPN14,cytosol,nan,nan,cytosol
+CAPN15,cytosol,PM-bound,nan,cytosol
+CAPN2,cytosol,PM-bound,nan,membrane / cytosol
+CAPN3,nucleoplasm,cytosol,nan,nucleus / cytosol
+CAPN5,nucleoplasm,nan,nan,extracellular / cytosol
+CAPN6,microtubule,nan,nan,cytoskeleton
+CAPN7,nucleoplasm,nan,nan,nucleus / cytosol
+CAPN8,cytosol,nan,nan,membrane / extracellular / cytoskeleton / mitochondrion / nucleus / golgi / cytosol / lysosome
+CAPN9,cytosol,nan,nan,cytosol
+CAPNS1,cytosol,nucleus,nan,cytosol
+CAPNS2,cytosol,nucleus,nan,membrane / cytosol
+CAPRIN2,nan,nan,nan,mitochondrion / nucleus / cytosol
+CAPS,cytosol,nan,nan,membrane / nucleus
+CAPS2,cytosol,nan,nan,cytoskeleton / nucleus
+CAPSL ,cytosol,nan,nan,NA
+CARF,nan,nan,nan,cytosol
+CARHSP1,nan,nan,nan,nucleus
+CASK,nan,nan,nan,nucleus / cytosol
+CASP1,nan,nan,nan,cytosol
+CASP3,nan,nan,nan,nucleus / cytosol
+CASP9,nan,nan,nan,mitochondrion / cytosol
+CASQ1,ER lumen,SR lumen,nan,endoplasmic
+CASQ2,SR lumen,nan,nan,endoplasmic
+CASR,PM,nan,nan,membrane
+CAST,cytosol,nucleus,nan,cytosol
+CATSPER1,PM,nan,nan,membrane
+CATSPER2,PM,nan,nan,membrane
+CATSPER3,PM,nan,nan,membrane
+CATSPER4,PM,nan,nan,membrane
+CATSPERB,PM,nan,nan,membrane
+CATSPERD,PM,nan,nan,membrane
+CATSPERE,PM,nan,nan,membrane
+CATSPERG,PM,nan,nan,membrane
+CATSPERZ,PM,nan,nan,membrane
+CAV1,PM,golgi apparatus ,nan,membrane / plasma / endosome
+CAVIN1,cavelolae,nan,nan,membrane / mitochondrion / nucleus
+CAVIN3,cavelolae,nan,nan,membrane
+CBARP,PM,nan,nan,membrane
+CBL,PM,Golgi apparatus ,nan,membrane / cytosol
+CBLB,cytosol,endocytosis vesicles,nan,cytosol
+CBLC,PM,Golgi apparatus ,nan,membrane / nucleus
+CC2D1A,nan,nan,nan,nucleus
+CCDC47,nan,nan,nan,extracellular / cytosol
+CCKAR,nan,nan,nan,membrane
+CCKBR,nan,nan,nan,membrane
+CCN2,nan,nan,nan,membrane / extracellular
+CCN3,nan,nan,nan,extracellular
+CCND1,nan,nan,nan,nucleus / cytosol
+CCR1,nan,nan,nan,membrane
+CCR2,nan,nan,nan,membrane
+CCR4,nan,nan,nan,membrane
+CCR5,nan,nan,nan,membrane / endosome
+CCR7,nan,nan,nan,membrane
+CD101,nan,nan,nan,membrane
+CD19,nan,nan,nan,membrane / extracellular
+CD207,nan,nan,nan,membrane
+CD209,nan,nan,nan,membrane
+CD22,nan,nan,nan,membrane / extracellular
+CD24,nan,glycosyl-phosphatidylinositol (GPI-) anchor,nan,membrane
+CD244,nan,nan,nan,membrane
+CD247,nan,nan,nan,membrane
+CD36,nan,nan,nan,membrane / extracellular
+CD38,nan,nan,nan,membrane / extracellular
+CD4,nan,nan,nan,membrane / plasma / endosome
+CD40,nan,nan,nan,membrane / extracellular
+CD44,nan,nan,nan,membrane / extracellular / cytosol
+CD48,nan,nan,nan,membrane / extracellular
+CD59,nan,nan,nan,membrane / extracellular
+CD6,nan,nan,nan,membrane
+CD69,nan,nan,nan,membrane
+CD84,nan,nan,nan,membrane
+CDH1,nan,nan,nan,membrane / extracellular / cytoskeleton / endosome
+CDH10,nan,nan,nan,membrane
+CDH11,nan,nan,nan,membrane
+CDH12,nan,nan,nan,membrane
+CDH13,nan,nan,nan,membrane
+CDH15,nan,nan,nan,membrane
+CDH16,nan,nan,nan,membrane / extracellular
+CDH17,nan,nan,nan,membrane / nucleus
+CDH18,nan,nan,nan,membrane
+CDH19,nan,nan,nan,membrane
+CDH2,nan,nan,nan,membrane
+CDH20,nan,nan,nan,membrane
+CDH22,nan,nan,nan,membrane
+CDH23,nan,nan,nan,membrane
+CDH24,nan,nan,nan,membrane
+CDH26,nan,nan,nan,membrane
+CDH3,nan,nan,nan,membrane
+CDH4,nan,nan,nan,membrane
+CDH5,nan,nan,nan,membrane / nucleus
+CDH5,nan,nan,nan,membrane / nucleus
+CDH6,nan,nan,nan,membrane
+CDH7,nan,nan,nan,membrane
+CDH8,nan,nan,nan,membrane
+CDH9,nan,nan,nan,membrane
+CDHR1,nan,nan,nan,membrane
+CDHR2,nan,nan,nan,membrane
+CDHR3,nan,nan,nan,membrane
+CDHR4,nan,nan,nan,membrane
+CDHR5,nan,nan,nan,membrane
+CDIPT ,nan,nan,nan,NA
+CDK1,nan,nan,nan,cytoskeleton / mitochondrion / nucleus / cytosol
+CDK4,nan,nan,nan,nucleus / cytosol
+CDK9,cytosol,nucleoplasm,nan,nucleus
+CEACAM1,CAMKII regulated,nan,nan,membrane / extracellular
+CEP97 ,centrosome,nan,nan,NA
+CERK,nan,nan,nan,membrane
+CETN1,centrosome,ciliae,nan,cytoskeleton / cytosol
+CETN2,centrosome,ciliae,nan,cytoskeleton / nucleus / cytosol
+CETN3,centrosome,ciliae,nan,cytoskeleton / nucleus
+CFAP221,nan,nan,nan,nucleus / cytosol
+CGREF1,extracellular,nan,nan,extracellular
+CHCHD4,mirochondria,nan,nan,mitochondrion
+CHERP,ER membrane,nucleus,nan,reticulum
+CHGA,nan,nan,nan,extracellular
+CHP1,PM,nucleus,Golgi apparatus,membrane
+CHP2,PM,nucleus,nan,membrane / nucleus
+CHRM1,nan,nan,nan,membrane
+CHRM2,nan,nan,nan,membrane
+CHRM3,nan,nan,nan,membrane
+CHRNA1,PM,nan,nan,membrane
+CHRNA10,PM,nan,nan,membrane
+CHRNA2,PM,nan,nan,membrane
+CHRNA3,PM,nan,nan,membrane
+CHRNA4,PM,nan,nan,membrane
+CHRNA5,PM,nan,nan,membrane
+CHRNA6,PM,nan,nan,membrane
+CHRNA7,PM,nan,nan,membrane
+CHRNA9,PM,nan,nan,membrane
+CHRNB1,PM,nan,nan,membrane
+CHRNB2,PM,nan,nan,membrane
+CHRNB3,PM,nan,nan,membrane
+CHRNB4,PM,nan,nan,membrane
+CHRND,PM,nan,nan,membrane
+CHRNE,PM,nan,nan,membrane
+CIB1,cytosol,membrane bound,nan,membrane / cytoskeleton / nucleus
+CIB2,cytosol,membrane bound,nan,cytoskeleton
+CIB3,cytosol,membrane bound,nan,cytoskeleton / nucleus / cytosol
+CIB4,cytosol,membrane bound,nucleus,cytosol
+CISD2,ER membrane,nan,nan,mitochondrion / reticulum
+CLCA1,secretory protein,PM-bound,nan,membrane / extracellular
+CLCA2,PM,nan,nan,membrane / extracellular
+CLCA4,secretory protein,PM-bound,nan,membrane
+CLCN1,PM,nan,nan,membrane
+CLCN2,PM,nan,nan,membrane
+CLCN3,PM,nan,nan,membrane / endosome
+CLCN4,PM,nan,nan,endoplasmic / endosome / lysosome
+CLCN5,PM,nan,nan,membrane
+CLCN6,PM,nan,nan,membrane / endosome / lysosome
+CLCN7,PM,nan,nan,nucleus
+CLCNKA,PM,nan,nan,membrane
+CLCNKB,PM,nan,nan,membrane
+CLDN14,nan,nan,nan,membrane
+CLDN16,nan,nan,nan,membrane
+CLDN19,nan,nan,nan,membrane
+CLDN3,nan,nan,nan,membrane
+CLDN4,nan,nan,nan,membrane
+CLEC10A,nan,nan,nan,membrane
+CLEC4C,nan, coupled fo PLCgamma2,nan,membrane
+CLEC4E,nan, coupled fo PLC,nan,membrane
+CLEC6A,nan, coupled fo PLC,nan,membrane
+CLEC7A,nan, coupled fo PLC,nan,membrane
+CLGN,nan,nan,nan,endoplasmic
+CLIC2,Intracellular Channel ,nan,nan,cytosol
+CLNK,nan,nan,nan,nucleus
+CLSTN1,nan,nan,nan,membrane
+CLSTN2,nan,nan,nan,membrane
+CLSTN3,nan,nan,nan,membrane
+CLTA,nan,nan,nan,cytosol
+CLTB,nan,nan,nan,membrane / cytosol
+CMKLR1 ,nan,nan,nan,NA
+CMYA5 ,SR lumen,nan,nan,NA
+CNGA1,PM,nan,nan,membrane
+CNGA2,PM,nan,nan,membrane
+CNGA3 ,PM,nan,nan,NA
+CNGA4,PM,nan,nan,membrane
+CNGB1,PM,nan,nan,membrane
+CNGB1,nan,nan,nan,membrane
+CNGB3,PM,nan,nan,membrane / mitochondrion / nucleus / cytosol
+CNGB3,nan,nan,nan,membrane / mitochondrion / nucleus / cytosol
+CNN1,Cytoskeleton,nan,nan,cytoskeleton
+CNN2,Cytoskeleton,nan,nan,cytoskeleton
+CNN3,Cytoskeleton,nan,nan,cytoskeleton / cytosol
+COMP,nan,nan,nan,extracellular
+CPLX1,nan,nan,nan,cytosol
+CPLX2,nan,nan,nan,nucleus / cytosol
+CPNE1,nan,nan,nan,nucleus / cytosol
+CPNE2,nan,nan,nan,membrane / extracellular
+CPNE3,nan,nan,nan,membrane / nucleus / cytosol
+CPNE4,nan,nan,nan,extracellular / cytosol
+CPNE5,nan,nan,nan,extracellular / cytosol
+CPNE6,nan,nan,nan,membrane / extracellular
+CPNE7,nan,nan,nan,membrane / nucleus
+CPNE8,nan,nan,nan,extracellular
+CPNE9,nan,nan,nan,membrane / extracellular
+CPPED1,nan,nan,nan,membrane / extracellular / cytosol / lysosome
+CR2,nan,nan,nan,membrane
+CRACR2A,golgi apparatus,cytosol,vesicles,membrane / cytoskeleton
+CRACR2B,golgi apparatus,cytosol,vesicles,nucleus / cytosol
+CRBN,nan,nan,nan,nucleus
+CREB1,nan,nan,nan,nucleus
+CREB3,nan,nan,nan,reticulum / cytosol
+CREBBP,nan,nan,nan,nucleus
+CRELD1,endoplasmic reticulum (ER) i,nan,Calcineurin regulator,membrane / extracellular / nucleus / cytosol
+CREM,nan,nan,nan,nucleus
+CRHSP24,cytosol,nan,nan,nucleus
+CRISP1,nan,nan,nan,extracellular / nucleus
+CRNN,cytosol,nan,nan,extracellular / cytosol
+CRTAC1,nan,nan,nan,membrane
+CRTC1 ,cytosol,nucleus,nan,NA
+CRTC2 ,cytosol,nucleus,nan,NA
+CTRB1,nan,nan,nan,extracellular
+CTRC,nan,nan,nan,extracellular
+CUL5,nan,nan,nan,cytosol
+CX3CR1,nan,nan,nan,membrane
+CXCR1,nan,nan,nan,membrane
+CXCR2,nan,nan,nan,membrane / nucleus / lysosome
+CXCR3,nan,nan,nan,membrane
+CXCR4,nan,nan,nan,membrane / extracellular / endosome / lysosome
+CXCR5,nan,nan,nan,membrane
+CXCR6,nan,nan,nan,membrane
+DAGLA,nan,nan,nan,membrane / endosome
+DAGLB,nan,nan,nan,membrane
+DAPK1,cytosol,cytoskeleton,nan,membrane / cytoskeleton
+DAPK2,cytosol,cytoskeleton,nan,nucleus
+DAPP1,nan,nan,nan,membrane / cytosol
+DCHS1,nan,nan,nan,membrane
+DCHS2,nan,nan,nan,membrane
+DDX3X,nan,nan,nan,membrane / cytoskeleton / nucleus / cytosol
+DDX5,nan,nan,nan,nucleus
+DGKA,cytosol,nan,nan,cytosol
+DGKB,cytosol,nan,nan,cytosol
+DGKG,cytosol,nan,nan,cytosol
+DHHC21,nan,nan,nan,membrane
+DISC1,Endoplasmic Reticulum Calcium,nan,nan,cytoskeleton / mitochondrion
+DLG3,cytosol,nan,nan,membrane / cytosol
+DLG4,cytosol,nan,nan,membrane / cytoskeleton / cytosol
+DLG4,nan,nan,nan,membrane / cytoskeleton / cytosol
+DMD,Cytoskeleton,membrane associated,nan,membrane / cytoskeleton / nucleus / cytosol
+DNAJB9,ER lumen,nan,nan,extracellular / nucleus / reticulum
+DNAJC3,ER lumen,nan,nan,extracellular / cytosol / lysosome
+DNM1,cytosol,microtubule,nan,membrane / extracellular / cytoskeleton / mitochondrion / nucleus / cytosol
+DNM1L ,Mitochondrion outer membrane,nan,nan,NA
+DOC2A,nan,nan,nan,cytosol / lysosome
+DOC2B,nan,nan,nan,membrane
+DPYSL2,nan,nan,nan,membrane / cytosol
+DRD1,nan,nan,nan,membrane
+DRD2,nan,nan,nan,membrane
+DRD3,nan,nan,nan,membrane
+DRD4,nan,nan,nan,membrane
+DRD5,nan,nan,nan,membrane
+DSG1,nan,nan,nan,membrane
+DST,cytoskeleton,cytoskeleton,nan,membrane / cytoskeleton
+DTNA,cytosol,nan,nan,membrane / cytoskeleton / nucleus
+DTNB,cytosol,nan,nan,nucleus
+DUOX1,PM,nan,nan,membrane / plasma
+DUOX1,activated by calcium,nan,nan,membrane / plasma
+DUOX2,PM,nan,nan,membrane / plasma / cytosol
+DUOX2,activated by calcium,nan,nan,membrane / plasma / cytosol
+DUOXA1,PM,nan,nan,membrane / plasma
+DUOXA2,PM,nan,nan,membrane / plasma / cytosol
+DUSP1,nan,nan,nan,nucleus
+DYRK2,NFTA phosphp,nan,nan,nucleus / cytosol
+DYSF,nan,nan,nan,membrane / endosome
+DYTN,cytosol,nan,nan,membrane
+E2F4,nan,nan,nan,nucleus
+E2F5,nan,nan,nan,nucleus
+EDNRA,nan,nan,nan,membrane
+EDNRB,nan,nan,nan,membrane
+EEA1,nan,nan,nan,membrane / endosome / cytosol
+EEF1A1,cytosol,nucleoplasm,nan,membrane / cytoskeleton / nucleus / cytosol
+EEF2K,nan,nan,nan,cytosol
+EFCAB1,cytosol,axoneme,nan,cytosol
+EFCAB10,cytosol,nan,nan,nucleus / cytosol
+EFCAB11,cytosol,nan,nan,nucleus / cytosol
+EFCAB12,cytosol,nan,nan,nucleus / cytosol
+EFCAB14,cytosol,nan,nan,nucleus
+EFCAB2,cytosol,axoneme,nan,cytosol
+EFCAB3,cytosol,nan,nan,nucleus / cytosol
+EFCAB5,cytosol,nan,nan,cytosol
+EFCAB6,cytosol,nan,nan,mitochondrion
+EFCAB7,cytosol,nan,nan,membrane
+EFCAB8,cytosol,nan,nan,nucleus / cytosol
+EFCAB9,cytosol,nan,nan,cytosol
+EFCC1,cytosol,nan,nan,cytosol
+EFEMP1,extracellular matrix ,nan,nan,extracellular
+EFEMP2,extracellular matrix ,nan,nan,extracellular
+EFHB,cytosol,nan,nan,nucleus / cytosol
+EFHC1,cytoskeleton,microtubule,nan,cytoskeleton
+EFHC2,cytoskeleton,microtubule,axoneme,cytoskeleton
+EFHD1,mitochondrion inner membrane,nan,nan,mitochondrion
+EFHD2,cytosol,cytoskeleton,nan,membrane / cytosol
+EGFR,nan,nan,nan,membrane / extracellular / nucleus / endosome
+EIF2AK3,nan,nan,nan,endoplasmic
+EIF3E,nan,nan,nan,nucleus / cytosol
+EIF4E,nan,nan,nan,cytosol
+ELK1,nan,nan,nan,mitochondrion
+EMC1,ER membrane,nan,nan,endoplasmic
+ENKUR,cytosol,axoneme,nan,membrane / extracellular / cytoskeleton
+ENO1,nan,nan,nan,membrane / nucleus / cytosol
+ENPP1,nan,nan,nan,membrane / extracellular
+ENPP2,nan,nan,nan,extracellular
+ENTPD1,purinergic signaling,enzyme,Ca2+ dependent,membrane / extracellular
+ENTPD4,purinergic signaling,enzyme,Ca2+ dependent,membrane / lysosome
+ENTPD5,nan,nan,Ca2+ dependent,extracellular
+ENTPD6,nan,nan,Ca2+ dependent,membrane / extracellular
+ENTPD7,nan,nan,Ca2+ dependent,membrane
+EP300,nan,nan,nan,nucleus / cytosol
+EPB41,Cytoskeleton,nan,nan,membrane / cytoskeleton / nucleus / cytosol
+EPB41,nan,nan,nan,membrane / cytoskeleton / nucleus / cytosol
+EPCAM,nan,nan,nan,membrane / extracellular
+EPN1,nan,nan,nan,cytosol
+EPS15,cytosol,membrane associated,nan,membrane / cytosol
+EPS15L1,cytosol,membrane associated,nan,cytosol
+ERLIN1,nan,nan,nan,endoplasmic
+ERLIN2,nan,nan,nan,membrane / plasma
+ERN1,nan,nan,nan,endoplasmic
+ERN2,nan,nan,nan,endoplasmic
+ERO1A,nan,nan,nan,endoplasmic
+ERP44,nan,nan,nan,extracellular / reticulum
+ESR1,nan,nan,nan,membrane / nucleus / cytosol
+ESYT1,ER membrane,nan,nan,endoplasmic
+ESYT2,ER membrane,nan,nan,membrane / plasma
+ESYT3,ER membrane,nan,nan,membrane / plasma
+EWSR1,cytosol,nucleoplasm,nan,nucleus
+F10,coagulation,nan,nan,extracellular
+F13A1,nan,nan,nan,extracellular
+F2R,nan,nan,nan,membrane / extracellular / endosome
+F2RL1,nan,nan,nan,membrane / endosome
+F2RL2,nan,nan,nan,membrane
+F2RL3,nan,nan,nan,membrane
+FAIM2,nan,nan,nan,membrane
+FAS,nan,nan,nan,membrane / extracellular / nucleus / cytosol
+FASLG,nan,nan,nan,membrane / extracellular / nucleus
+FBLN1,nan,nan,nan,extracellular
+FBLN5,nan,nan,nan,extracellular
+FBN1,extracellular matrix ,nan,nan,extracellular
+FBN2,extracellular matrix ,nan,nan,extracellular
+FBP1,nan,nan,nan,cytosol
+FBXL2,nan,nan,nan,extracellular / cytosol
+FCGR2A ,nan,nan,nan,NA
+FCGR2B,nan,nan,nan,membrane
+FER1L5,nan,nan,nan,membrane
+FER1L6,nan,nan,nan,cytosol
+FFAR1,nan,nan,nan,membrane
+FFAR2,nan,nan,nan,membrane
+FFAR3,nan,nan,nan,membrane
+FFAR4,nan,nan,nan,membrane / endosome / lysosome
+FGA,nan,nan,nan,extracellular
+FGFR1,nan,nan,nan,membrane / extracellular / nucleus / cytosol
+FGG,nan,nan,nan,extracellular
+FHIT,nan,nan,nan,membrane / nucleus / cytosol
+FIBCD1,nan,nan,nan,membrane
+FKBP10,ER lumen,nan,nan,endoplasmic
+FKBP14,nan,nan,nan,endoplasmic
+FKBP1A,nan,nan,nan,membrane / cytosol
+FKBP1B,nan,nan,nan,cytosol
+FKBP5 ,cytosol,nan,nan,NA
+FKBP7,ER lumen,nan,nan,endoplasmic
+FKBP8,mitochondria,nan,nan,mitochondrion / reticulum / cytosol
+FKBP9,ER lumen,nan,nan,endoplasmic
+FLG,cytosol,cytoplasmic granules,nan,cytoskeleton / nucleus / cytosol
+FLG2,cytosol,cytoplasmic granules,nan,membrane / extracellular
+FLNA,nan,nan,nan,membrane / cytoskeleton / nucleus / cytosol
+FLNB,nan,nan,nan,membrane / cytoskeleton / cytosol
+FLNC ,nan,nan,nan,NA
+FLT1,nan,nan,nan,membrane / extracellular / cytoskeleton / endosome
+FMR1,nan,nan,nan,nucleus / cytosol
+FN1,nan,nan,nan,extracellular / reticulum
+FOS,nan,nan,nan,nucleus / reticulum / cytosol
+FOSB,nan,nan,nan,nucleus
+FPR1,nan,nan,nan,membrane
+FPR2,nan,nan,nan,membrane
+FPR3,nan,nan,nan,membrane
+FRAS1 ,PM,extracellular matrix,nan,NA
+FREM1,PM,extracellular matrix,nan,extracellular
+FREM2,PM,extracellular matrix,nan,membrane / extracellular
+FSTL1,secretory protein,extracellular matrix,nan,extracellular
+FSTL4,secretory protein,extracellular matrix,nan,extracellular
+FSTL5,secretory protein,extracellular matrix,nan,extracellular
+FYN,nan,nan,nan,membrane / nucleus / cytosol
+FZD1,nan,nan,nan,membrane
+FZD10,nan,nan,nan,membrane / nucleus
+FZD2,nan,nan,nan,membrane
+FZD3,nan,nan,nan,membrane
+FZD4,nan,nan,nan,membrane
+FZD5,nan,nan,nan,membrane
+FZD6,nan,nan,nan,membrane
+FZD7,nan,nan,nan,membrane / endosome
+FZD8,nan,nan,nan,membrane
+FZD9,nan,nan,nan,membrane
+GALR1,nan,nan,nan,membrane
+GALR2,nan,nan,nan,membrane
+GAP43,cytosol,nan,nan,membrane
+GCA,cytosol,cytoplasmic granules,nan,membrane / cytosol
+GCH1,nan,nan,nan,nucleus / cytosol
+GEM,nan,nan,nan,membrane / cytoskeleton
+GEM,nan,nan,nan,membrane / cytoskeleton
+GHITM,nan,nan,nan,mitochondrion
+GIPR,nan,nan,nan,membrane
+GJA1,nan,nan,nan,membrane / mitochondrion / nucleus
+GJA4,nan,nan,nan,membrane
+GJB1,nan,nan,nan,membrane
+GJB2,nan,nan,nan,membrane
+GJC2,nan,nan,nan,membrane
+GNA11,nan,nan,nan,membrane / extracellular / cytosol / lysosome
+GNA12,nan,nan,nan,membrane
+GNA13,nan,nan,nan,nucleus / cytosol
+GNA13,nan,nan,nan,nucleus / cytosol
+GNA13,nan,nan,nan,nucleus / cytosol
+GNA14,nan,nan,nan,membrane / extracellular
+GNA15,nan,nan,nan,membrane / cytosol
+GNAI2,nan,nan,nan,membrane / cytoskeleton / cytosol
+GNAI3,nan,nan,nan,membrane / cytoskeleton
+GNAQ,nan,nan,nan,membrane
+GNAT3,nan,nan,nan,membrane
+GNB1,nan,nan,nan,membrane / cytosol
+GNB2,nan,nan,nan,cytosol
+GNB4,nan,nan,nan,extracellular / lysosome
+GNB5,nan,nan,nan,cytosol
+GNG2,nan,nan,nan,membrane / extracellular
+GNG3,nan,nan,nan,membrane
+GNG4,nan,nan,nan,membrane / extracellular
+GNPTAB,nan,nan,nan,membrane
+GNRHR,nan,nan,nan,membrane
+GPD2,mitochondria,nan,nan,mitochondrion
+GPER1,nan,nan,nan,membrane / cytoskeleton / nucleus / plasma / endosome
+GPR132,nan,nan,nan,membrane
+GPR143,nan,nan,nan,membrane / lysosome
+GPR157,nan,nan,nan,membrane
+GPR17,nan,nan,nan,membrane
+GPR174 ,nan,nan,nan,NA
+GPR18 ,nan,nan,nan,NA
+GPR20,nan,nan,nan,membrane
+GPR32,nan,nan,nan,membrane
+GPR33,nan,nan,nan,membrane
+GPR35,nan,nan,nan,membrane
+GPR4,nan,nan,nan,membrane
+GPR55,nan,nan,nan,membrane
+GPR62,nan,nan,nan,membrane / endosome
+GPR65,nan,nan,nan,membrane
+GPR68,nan,nan,nan,membrane
+GPR75,nan,nan,nan,membrane
+GPR87,nan,nan,nan,membrane
+GPRC6A,nan,nan,nan,membrane
+GPX8,ER membrane,mitochondria-associated membranes (MAM),nan,endoplasmic
+GRAMD2A,nan,nan,nan,membrane / plasma
+GRB2,nan,nan,nan,membrane / nucleus / endosome / cytosol
+GRB2 ,nan,nan,nan,NA
+GRB7,cytosol,nan,nan,cytosol
+GRIA1,nan,nan,nan,membrane / endosome
+GRIA2,nan,nan,nan,membrane
+GRIA3,nan,nan,nan,membrane
+GRIA4,nan,nan,nan,membrane
+GRID1,nan,nan,nan,membrane / extracellular
+GRID2,nan,nan,nan,membrane
+GRIK1,nan,nan,nan,membrane
+GRIK2,nan,nan,nan,membrane
+GRIN1,PM,nan,nan,membrane
+GRIN2A,PM,nan,nan,membrane
+GRIN2B,PM,nan,nan,membrane
+GRIN2C,PM,nan,nan,membrane
+GRIN2D,PM,nan,nan,membrane
+GRIN3A,PM,nan,nan,membrane
+GRIN3B,PM,nan,nan,membrane
+GRINA,PM associated,nan,nan,membrane / plasma
+GRK2 ,PM associated,nan,nan,NA
+GRK4 ,nan,nan,nan,NA
+GRK5 ,nan,nan,nan,NA
+GRK6,nan,nan,nan,membrane
+GRM1,nan,nan,nan,membrane
+GRM5,nan,nan,nan,membrane
+GRPR,nan,nan,nan,membrane
+GSK3B,cytosol,nan,nan,membrane / cytoskeleton / nucleus
+GSN,cytosol,cytoskeleton,nan,membrane / extracellular / cytoskeleton / cytosol
+GSN,nan,nan,nan,membrane / extracellular / cytoskeleton / cytosol
+GSTO1,nan,nan,nan,nucleus / cytosol
+GUCA1A,cytosol,PM associated,nan,membrane / cytosol
+GUCA1B,cytosol,PM associated,nan,membrane
+GUCA1C,nan,nan,nan,membrane / mitochondrion
+HABP2,nan,nan,nan,extracellular
+HAP1 ,nan,nan,nan,NA
+HAX1 ,nan,nan,nan,NA
+HCRTR1,nan,nan,nan,membrane
+HCRTR2,nan,nan,nan,membrane
+HDAC4,nan,nan,nan,nucleus / cytosol
+HDAC5,nan,nan,nan,nucleus / cytosol
+HDAC7,nan,nan,nan,nucleus / cytosol
+HDAC9,nan,nan,nan,nucleus
+HERPUD1,nan,nan,nan,endoplasmic
+HK1,nan,nan,nan,mitochondrion
+HK2,nan,nan,nan,mitochondrion / cytosol
+HOMER1,cytosol,nan,nan,cytosol
+HOMER2,cytosol,nan,nan,membrane / cytosol
+HOMER3,cytosol,nan,nan,cytosol
+HPCA,nan,nan,nan,cytosol
+HPCAL1,nan,nan,nan,cytosol
+HPCAL4,nan,nan,nan,cytosol
+HRC ,nan,nan,nan,NA
+HRH1,nan,nan,nan,membrane / cytosol
+HRH4,nan,nan,nan,membrane
+HRNR,nan,nan,nan,membrane / nucleus
+HSP90B1,nan,nan,nan,extracellular / reticulum / cytosol
+HSPA2,nan,nan,nan,nucleus / cytosol
+HSPA5,ER lumen,nan,nan,extracellular / mitochondrion / nucleus / reticulum / cytosol
+HSPA9,nan,nan,nan,mitochondrion
+HSPB1,nan,nan,nan,extracellular / cytoskeleton / nucleus / cytosol
+HTR1A,nan,nan,nan,membrane
+HTR2A,nan,nan,nan,membrane
+HTR2B,nan,nan,nan,membrane
+HTR2C ,nan,nan,nan,NA
+HTT ,nan,nan,nan,NA
+HYOU1,nan,nan,nan,endoplasmic
+IHH,nan,nan,nan,membrane
+IL1RAPL1,nan,nan,nan,membrane
+IMPA1,nan,nan,nan,cytosol
+IMPA2,nan,nan,nan,cytosol
+INPP1,nan,nan,nan,cytosol
+INPP4A,nan,nan,nan,nucleus
+INPP4B,nan,nan,nan,cytosol
+INPP5A ,nan,nan,nan,NA
+INPP5B,nan,nan,nan,cytosol
+INPP5D,nan,nan,nan,cytosol
+INPP5E,nan,nan,nan,cytoskeleton
+INPP5F,nan,nan,nan,endosome
+INPP5J,nan,nan,nan,cytosol
+INPP5K,nan,nan,nan,membrane / nucleus / plasma / cytosol
+INPPL1 ,nan,nan,nan,NA
+INVS ,nan,nan,nan,NA
+IPMK ,nan,nan,nan,NA
+IQCG,nan,nan,nan,extracellular / cytoskeleton / cytosol
+IQGAP1,nan,nan,nan,membrane / cytoskeleton / nucleus / cytosol
+IQGAP2,nan,nan,nan,membrane / cytoskeleton / cytosol
+IQGAP3,nan,nan,nan,membrane / nucleus
+IRAG1,nan,nan,nan,endoplasmic
+IRAG2,nan,nan,nan,membrane / nucleus / plasma / lysosome
+ISYNA1,nan,nan,nan,cytosol
+ITGA1,nan,nan,nan,membrane / extracellular
+ITGA11,nan,nan,nan,membrane
+ITGA2,nan,nan,nan,membrane
+ITGA2B,nan,nan,nan,membrane / extracellular
+ITGA3,nan,nan,nan,membrane / extracellular
+ITGA4,nan,nan,nan,membrane / extracellular
+ITGA5,nan,nan,nan,membrane
+ITGA6,nan,nan,nan,membrane
+ITGA7,nan,nan,nan,membrane
+ITGA8,nan,nan,nan,membrane / plasma
+ITGA9,nan,nan,nan,membrane
+ITGAL,nan,nan,nan,membrane
+ITGAM,nan,nan,nan,membrane / extracellular
+ITGAV,nan,nan,nan,membrane / extracellular / cytosol
+ITGB1,nan,nan,nan,membrane / extracellular
+ITGB1BP1,nan,nan,nan,membrane / cytoskeleton / cytosol
+ITGB1BP1,nan,nan,nan,membrane / cytoskeleton / cytosol
+ITGB2,nan,nan,nan,membrane / extracellular
+ITGB3,nan,nan,nan,membrane / extracellular / nucleus
+ITK,nan,nan,nan,nucleus / cytosol
+ITK,nan,nan,nan,nucleus / cytosol
+ITPK1,nan,nan,nan,cytosol
+ITPKA,nan,nan,nan,cytosol
+ITPKB,nan,nan,nan,nucleus / cytosol
+ITPKC ,nan,nan,nan,NA
+ITPR1,nan,nan,nan,membrane / plasma
+ITPR1 ,SR,ER,nan,NA
+ITPR2,SR,ER,nan,membrane / plasma
+ITPR3,SR,ER,nan,membrane / plasma
+ITPRID1,nan,nan,nan,nucleus
+ITPRID2,nan,nan,nan,nucleus
+ITPRIP,nan,nan,nan,membrane / nucleus
+ITPRIPL1,nan,nan,nan,extracellular
+ITPRIPL2,nan,nan,nan,membrane / cytosol
+ITSN1,nan,nan,nan,membrane / nucleus / cytosol
+ITSN2,nan,nan,nan,membrane / extracellular / cytoskeleton
+JPH1,nan,nan,nan,nucleus
+JPH2,nan,nan,nan,nucleus
+JPH3,nan,nan,nan,membrane / plasma
+JPH4,nan,nan,nan,membrane / plasma / cytosol
+JPT2,nan,nan,nan,membrane / cytosol
+JSRP1,nan,nan,nan,nucleus
+JUN ,nan,nan,nan,NA
+KCNA1,PM,nan,nan,membrane
+KCNA10,PM,nan,nan,membrane
+KCNA2,PM,nan,nan,membrane
+KCNA3,PM,nan,nan,membrane
+KCNA4,PM,nan,nan,membrane
+KCNA5,PM,nan,nan,membrane
+KCNA6,PM,nan,nan,membrane
+KCNA7,PM,nan,nan,membrane
+KCNAB1,PM,nan,nan,membrane / cytosol
+KCNAB2,PM,nan,nan,membrane
+KCNB1,PM,nan,nan,membrane
+KCNB2,PM,nan,nan,membrane
+KCNC1,PM,nan,nan,membrane
+KCNC2,PM,nan,nan,membrane
+KCNC3,PM,nan,nan,membrane
+KCNC4,PM,nan,nan,membrane
+KCND1,PM,nan,nan,membrane
+KCND2,PM,nan,nan,membrane
+KCND3,PM,nan,nan,membrane
+KCNE1,PM,nan,nan,membrane
+KCNE2,PM,nan,nan,membrane
+KCNE3,PM,nan,nan,membrane
+KCNE4,PM,nan,nan,membrane
+KCNE5,PM,nan,nan,membrane
+KCNF1,PM,nan,nan,membrane
+KCNG1,PM,nan,nan,membrane
+KCNG2,PM,nan,nan,membrane
+KCNG3,PM,nan,nan,membrane / plasma
+KCNG4,PM,nan,nan,membrane
+KCNH1,PM,nan,nan,membrane / endosome
+KCNH2,PM,nan,nan,membrane
+KCNH3,PM,nan,nan,membrane
+KCNH4,PM,nan,nan,membrane
+KCNH5,PM,nan,nan,membrane
+KCNH6,PM,nan,nan,membrane
+KCNH7,PM,nan,nan,membrane
+KCNH8,PM,nan,nan,membrane
+KCNIP1,PM,nan,nan,membrane
+KCNIP2,PM,nan,nan,membrane
+KCNIP3,PM,nan,nan,cytosol
+KCNIP4,PM,nan,nan,membrane / cytosol
+KCNJ1,PM,nan,nan,membrane
+KCNJ10,PM,nan,nan,membrane
+KCNJ11,PM,nan,nan,membrane
+KCNJ12,PM,nan,nan,membrane
+KCNJ13,PM,nan,nan,membrane
+KCNJ14,PM,nan,nan,membrane
+KCNJ15,PM,nan,nan,membrane
+KCNJ16,PM,nan,nan,membrane
+KCNJ18,PM,nan,nan,membrane
+KCNJ2,PM,nan,nan,membrane
+KCNJ3,PM,nan,nan,membrane
+KCNJ4,PM,nan,nan,membrane
+KCNJ5,PM,nan,nan,membrane
+KCNJ6,PM,nan,nan,membrane
+KCNJ8,PM,nan,nan,membrane
+KCNJ9,PM,nan,nan,membrane
+KCNK1,PM,endosome,nan,membrane
+KCNK10,PM,nan,nan,membrane
+KCNK12,PM,nan,nan,membrane
+KCNK13,PM,nan,nan,membrane
+KCNK15,PM,nan,nan,membrane
+KCNK16,PM,nan,nan,membrane
+KCNK17,PM,nan,nan,membrane
+KCNK18,PM,nan,nan,membrane
+KCNK2,PM,nan,nan,membrane
+KCNK3 ,PM,nan,nan,NA
+KCNK4,PM,nan,nan,membrane
+KCNK5,PM,nan,nan,membrane
+KCNK6,PM,nan,nan,membrane
+KCNK7,PM,nan,nan,membrane
+KCNK9,PM,nan,nan,membrane
+KCNMA1,PM,nan,nan,membrane
+KCNMB1,PM,nan,nan,membrane
+KCNMB2,PM,nan,nan,NA
+KCNMB3,PM,nan,nan,membrane
+KCNMB4,PM,nan,nan,membrane
+KCNN1,PM,nan,nan,membrane
+KCNN2,PM,nan,nan,membrane
+KCNN3,PM,nan,nan,membrane / nucleus
+KCNN4,PM,nan,nan,membrane
+KCNQ1,PM,nan,nan,membrane / plasma
+KCNQ2,PM,nan,nan,membrane
+KCNQ3,PM,nan,nan,membrane
+KCNQ4,PM,nan,nan,membrane
+KCNQ5,PM,nan,nan,membrane
+KCNS1,PM,nan,nan,membrane
+KCNS2,PM,nan,nan,membrane
+KCNS3,PM,nan,nan,membrane / cytosol
+KCNT1,PM,nan,nan,membrane
+KCNT2,PM,nan,nan,membrane
+KCNU1,PM,nan,nan,membrane
+KCNV1,PM,nan,nan,membrane
+KCNV2,PM,nan,nan,membrane
+KDR,nan,nan,nan,membrane / extracellular / nucleus / plasma / endosome
+KIF1A,nan,nan,nan,cytoskeleton / cytosol
+KISS1R,nan,nan,nan,membrane
+KL,nan,nan,nan,membrane / extracellular
+KSR2,nan,nan,nan,membrane / cytosol
+KSR2 ,nan,nan,nan,NA
+LALBA ,nan,nan,nan,NA
+LAT,nan,nan,nan,membrane / nucleus
+LCK,nan,nan,nan,membrane / extracellular / cytoskeleton / cytosol
+LCP1,nan,nan,nan,membrane / cytoskeleton / cytosol
+LCP2,nan,nan,nan,membrane / cytosol
+LETM1,nan,nan,nan,mitochondrion
+LETM2,nan,nan,nan,mitochondrion
+LGALS9,nan,nan,nan,extracellular / nucleus / cytosol
+LILRB1,nan,nan,nan,membrane
+LILRB2,nan,nan,nan,membrane / extracellular
+LILRB4,nan,nan,nan,membrane / extracellular
+LIMK1,nan,nan,nan,nucleus / cytosol
+LIN37,nan,nan,nan,nucleus
+LIN52,nan,nan,nan,nucleus
+LIN54,nan,nan,nan,nucleus
+LIN9,nan,nan,nan,nucleus
+LMAN1,nan,nan,nan,membrane / cytoskeleton / mitochondrion / peroxisome / nucleus / endosome / lysosome
+LPAR1,nan,nan,nan,membrane / endosome
+LPAR2,nan,nan,nan,membrane
+LPAR3,nan,nan,nan,membrane
+LPAR4,nan,nan,nan,membrane
+LPAR5,nan,nan,nan,membrane
+LPAR6,nan,nan,nan,membrane
+LPCAT1,nan,nan,nan,endoplasmic
+LPCAT2,nan,nan,nan,endoplasmic
+LPL ,nan,nan,nan,NA
+LRP1,nan,nan,nan,membrane
+LRRC26,nan,nan,nan,membrane / extracellular / cytoskeleton
+LRRC38,nan,nan,nan,membrane
+LRRC52,nan,nan,nan,membrane
+LRRC55,nan,nan,nan,membrane
+LRRC8A,PM,Lysosome membrane,nan,membrane / lysosome
+LRRC8B,PM,Lysosome membrane,nan,membrane
+LRRC8C,PM,Lysosome membrane,nan,membrane
+LRRC8D,PM,Lysosome membrane,nan,membrane
+LRRC8E,PM,Lysosome membrane,nan,membrane / plasma / lysosome
+LRRK2,nan,nan,nan,mitochondrion / reticulum / cytosol / lysosome
+LTB4R,nan,nan,nan,membrane
+LTB4R2,nan,nan,nan,membrane
+LTBP1,nan,nan,nan,extracellular / reticulum
+LTBP2,nan,nan,nan,extracellular
+LTBP3,nan,nan,nan,extracellular
+LTBP4,nan,nan,nan,extracellular
+LYN,nan,nan,nan,membrane / nucleus
+MACF1,nan,nan,nan,membrane / cytoskeleton
+MAN1A1,nan,nan,nan,reticulum
+MAN1B1,nan,nan,nan,extracellular
+MAN1C1,nan,nan,nan,membrane / cytoskeleton / mitochondrion / nucleus / cytosol
+MANF,nan,nan,nan,extracellular / reticulum
+MAOA,Mitochondria outer membrane,nan,nan,mitochondrion / cytosol
+MAP2,nan,nan,nan,cytoskeleton
+MAP3K5 ,nan,nan,nan,NA
+MAP6 ,nan,nan,nan,NA
+MAPRE1,cytosol,nan,nan,cytoskeleton / cytosol
+MAPT,nan,nan,nan,membrane / extracellular / cytoskeleton / mitochondrion / nucleus / cytosol
+MARCKS,nan,nan,nan,cytoskeleton
+MARCKSL1,nan,nan,nan,membrane / extracellular / cytoskeleton / nucleus
+MBL2,nan,nan,nan,extracellular
+MBP,nan,nan,nan,cytosol
+MCC,nan,nan,nan,membrane / nucleus / cytosol
+MCFD2,nan,nan,nan,membrane / cytoskeleton / nucleus / cytosol / lysosome
+MCL1,nan,nan,nan,mitochondrion / nucleus / cytosol
+MCOLN1,Endosome/lysosome membrane,PM,vesicle membrane,membrane / endosome / lysosome
+MCOLN2,Endosome/lysosome membrane,PM,vesicle membrane,membrane
+MCOLN3,Endosome/lysosome membrane,PM,vesicle membrane,membrane / endosome / lysosome
+MCU,Mitochondria inner membrane,nan,nan,mitochondrion
+MCUB,Mitochondria inner membrane,nan,nan,mitochondrion
+MCUR1,Mitochondria inner membrane,nan,nan,mitochondrion
+MDK,nan,nan,nan,extracellular
+MEF2A,nan,nan,nan,nucleus / cytosol
+MEF2B,nan,nan,nan,nucleus / cytosol
+MEF2C,nan,nan,nan,nucleus
+MEF2D,nan,nan,nan,nucleus
+MELK,nan,nan,nan,membrane
+MEP1B,nan,nan,nan,membrane
+MET,nan,nan,nan,membrane / extracellular
+MGP,nan,nan,nan,extracellular
+MICU1,Mitochondria inner membrane,nan,nan,mitochondrion
+MICU2,Mitochondria inner membrane,nan,nan,mitochondrion
+MICU3,Mitochondria inner membrane,nan,nan,mitochondrion
+MINPP1,nan,nan,nan,reticulum
+MIP,nan,nan,nan,membrane / plasma
+MLC1,nan,nan,nan,membrane / plasma / endosome
+MLKL,nan,nan,nan,membrane / nucleus / cytosol
+MLKL,nan,nan,nan,membrane / nucleus / cytosol
+MMP12,nan,nan,nan,extracellular
+MMP26,nan,nan,nan,extracellular
+MRGPRX1,nan,nan,nan,membrane
+MRLN ,nan,nan,nan,NA
+MS4A1,nan,nan,nan,membrane
+MS4A12,nan,nan,nan,membrane
+MT-ATP6,nan,nan,nan,mitochondrion
+MT-ATP8,nan,nan,nan,mitochondrion
+MTNR1B,nan,nan,nan,membrane
+MYH1,nan,nan,nan,cytoskeleton
+MYH10,nan,nan,nan,membrane / cytoskeleton / cytosol
+MYH11,nan,nan,nan,cytoskeleton / cytosol
+MYH13,nan,nan,nan,cytoskeleton
+MYH14,nan,nan,nan,cytoskeleton / cytosol
+MYH15 ,nan,nan,nan,NA
+MYH2 ,nan,nan,nan,NA
+MYH3,nan,nan,nan,cytoskeleton / cytosol
+MYH4,nan,nan,nan,cytoskeleton
+MYH6 ,nan,nan,nan,NA
+MYH7 ,nan,nan,nan,NA
+MYH8,nan,nan,nan,cytoskeleton / cytosol
+MYH9,nan,nan,nan,membrane / cytoskeleton / nucleus / cytosol
+MYL1,nan,nan,nan,cytoskeleton / cytosol
+MYL10,nan,nan,nan,mitochondrion
+MYL12A,nan,nan,nan,cytosol
+MYL12B,nan,nan,nan,cytosol
+MYL2,nan,nan,nan,cytoskeleton / cytosol
+MYL3,nan,nan,nan,cytoskeleton / cytosol
+MYL4,nan,nan,nan,cytosol
+MYL5,nan,nan,nan,cytoskeleton / cytosol
+MYL6,nan,nan,nan,cytoskeleton / cytosol
+MYL6B,nan,nan,nan,cytoskeleton / cytosol
+MYL7,nan,nan,nan,cytoskeleton / cytosol
+MYL9,nan,nan,nan,cytoskeleton / cytosol
+MYLK ,nan,nan,nan,NA
+MYLK2,nan,nan,nan,nucleus
+MYLK3,nan,nan,nan,cytoskeleton / cytosol
+MYLPF,nan,nan,nan,cytoskeleton / cytosol
+MYO10,nan,nan,nan,membrane / nucleus / cytosol
+MYO15A,nan,nan,nan,cytoskeleton
+MYO1A,nan,nan,nan,membrane / cytoskeleton
+MYO1B,nan,nan,nan,membrane / cytoskeleton / endosome
+MYO1C,nan,nan,nan,membrane / cytoskeleton / nucleus / cytosol
+MYO1D,nan,nan,nan,membrane / extracellular / cytoskeleton / plasma / endosome / cytosol
+MYO1E,nan,nan,nan,cytoskeleton
+MYO1F,nan,nan,nan,cytosol
+MYO1G,nan,nan,nan,membrane / extracellular / cytoskeleton / nucleus
+MYO3A,nan,nan,nan,cytosol
+MYO5A,nan,nan,nan,cytosol
+MYO5B,nan,nan,nan,extracellular / cytoskeleton
+MYO5C,nan,nan,nan,extracellular / cytoskeleton / cytosol
+MYO6,nan,nan,nan,cytoskeleton / nucleus / cytosol
+MYO7A,nan,nan,nan,cytosol / lysosome
+MYO9B,nan,nan,nan,cytoskeleton / cytosol
+MYOC,nan,nan,nan,mitochondrion / reticulum
+MYOF,nan,nan,nan,membrane / nucleus
+MYOZ1,nan,nan,nan,nucleus
+MYOZ2 ,nan,nan,nan,NA
+MYOZ3 ,nan,nan,nan,NA
+MZB1,nan,nan,nan,reticulum
+NALCN ,nan,nan,nan,NA
+NAPA,nan,nan,nan,cytosol
+NCALD,nan,nan,nan,cytosol
+NCDN,nan,nan,nan,cytosol
+NCS1,nan,nan,nan,membrane
+NECAB1,nan,nan,nan,cytosol
+NECAB2,nan,nan,nan,membrane
+NECAB3,nan,nan,nan,nucleus / reticulum
+NEDD4 ,nan,nan,nan,NA
+NEDD4L,nan,nan,nan,nucleus / cytosol
+NEUROD2,nan,nan,nan,nucleus
+NFAM1,nan,nan,nan,membrane
+NFATC1,nan,nan,nan,nucleus / cytosol
+NFATC2,nan,nan,nan,nucleus / cytosol
+NFATC3,nan,nan,nan,nucleus / cytosol
+NFATC4,nan,nan,nan,nucleus / cytosol
+NID1,nan,nan,nan,extracellular
+NID2,nan,nan,nan,membrane / extracellular
+NIN,nan,nan,nan,cytoskeleton / nucleus
+NINL,nan,nan,nan,cytosol
+NIPSNAP2 ,nan,nan,nan,NA
+NKD1,nan,nan,nan,membrane
+NKD2,nan,nan,nan,membrane
+NLGN1,nan,nan,nan,membrane
+NLGN2,nan,nan,nan,membrane
+NLGN3,nan,nan,nan,membrane
+NLGN4X,nan,nan,nan,membrane
+NLGN4Y,nan,nan,nan,NA
+NLRC5,nan,nan,nan,cytosol
+NLRP3,nan,nan,nan,cytosol
+NMUR1,nan,nan,nan,membrane
+NMUR2,nan,nan,nan,membrane
+NOL3 ,nan,nan,nan,NA
+NOS1,nan,nan,nan,membrane / nucleus / cytosol
+NOS1AP ,nan,nan,nan,NA
+NOS2,nan,nan,nan,peroxisome / nucleus
+NOS3 ,nan,nan,nan,NA
+NOTCH1,nan,nan,nan,membrane / extracellular / nucleus / cytosol
+NOTCH1,nan,nan,nan,membrane / extracellular / nucleus / cytosol
+NOTCH2,nan,nan,nan,membrane / extracellular / nucleus
+NOTCH3,nan,nan,nan,membrane / cytoskeleton / nucleus / cytosol
+NOTCH4,nan,nan,nan,membrane / extracellular / nucleus
+NOX5,nan,nan,nan,endoplasmic
+NPSR1,nan,nan,nan,membrane
+NPTX1,nan,nan,nan,membrane
+NPTX2,nan,nan,nan,extracellular
+NPTXR,nan,nan,nan,membrane / extracellular / nucleus / plasma
+NR4A1,nan,nan,nan,nucleus / cytosol
+NRGN,nan,nan,nan,cytosol
+NRXN1,nan,nan,nan,membrane
+NRXN2,nan,nan,nan,membrane
+NRXN3,nan,nan,nan,membrane
+NT5E,purinergic signaling,nan,nan,membrane / extracellular / nucleus / cytosol
+NTRK1,nan,nan,nan,membrane
+NTRK2,nan,nan,nan,membrane
+NTSR1 ,nan,nan,nan,NA
+NTSR2,nan,nan,nan,membrane
+NUCB1,Golgi apparatus,nan,nan,extracellular
+NUCB2,Golgi apparatus,nan,nan,extracellular
+OCM,nan,nan,nan,nucleus
+OCM2,nan,nan,nan,cytosol
+OGDH,nan,nan,nan,mitochondrion / nucleus
+OGDHL,nan,nan,nan,nucleus / cytosol
+OPN3,nan,nan,nan,membrane
+OPRD1,nan,nan,nan,membrane
+OPRK1,nan,nan,nan,membrane
+OPRL1,nan,nan,nan,membrane
+OPRM1,nan,nan,nan,membrane
+ORAI1 ,PM,nan,nan,NA
+ORAI2 ,PM,nan,nan,NA
+ORAI3,PM,nan,nan,membrane
+ORMDL3,ER membrane,nan,nan,membrane / plasma
+OTOF,nan,nan,nan,cytosol
+OTOL1,nan,nan,nan,extracellular
+P2RX1,PM,nan,nan,membrane
+P2RX2,PM,nan,nan,membrane
+P2RX3,PM,nan,nan,membrane
+P2RX4,PM,nan,nan,membrane / extracellular
+P2RX5,PM,nan,nan,membrane / cytosol
+P2RX7,PM,nan,nan,membrane
+P2RY1,nan,nan,nan,membrane
+P2RY10,nan,nan,nan,membrane
+P2RY11,nan,nan,nan,membrane
+P2RY12 ,nan,nan,nan,NA
+P2RY2 ,nan,nan,nan,NA
+P2RY4,nan,nan,nan,membrane
+P2RY6,nan,nan,nan,membrane
+P2RY8,nan,nan,nan,membrane
+P4HTM,nan,nan,nan,membrane
+PACS1,nan,nan,nan,cytosol
+PACS2,nan,nan,nan,mitochondrion / reticulum
+PACSIN3,nan,nan,nan,membrane / cytosol
+PADI1,nan,nan,nan,nucleus / cytosol
+PADI2,nan,nan,nan,cytosol
+PADI3,nan,nan,nan,nucleus / cytosol
+PADI4,nan,nan,nan,nucleus / cytosol
+PADI6,nan,nan,nan,nucleus
+PAK1,SOCE modulation,nan,nan,membrane / cytoskeleton / nucleus / cytosol
+PANX1,PM,Gap junction,nan,membrane / plasma
+PCLO,nan,C2 domain,nan,cytoskeleton
+PCNT,nan,nan,nan,cytoskeleton / cytosol
+PCP4,nan,nan,nan,cytosol
+PCSK1,nan,nan,nan,extracellular
+PCSK6,nan,nan,nan,reticulum
+PCSK9,nan,nan,nan,membrane / extracellular / plasma / endosome / lysosome
+PCYT1A,nan,nan,nan,nucleus / reticulum
+PDCD6,nan,nan,nan,nucleus / reticulum / cytosol
+PDE1A,nan,nan,nan,cytosol
+PDE1B,nan,nan,nan,cytosol
+PDE1C,nan,nan,nan,cytosol
+PDGFB,nan,nan,nan,extracellular
+PDGFRA,nan,nan,nan,membrane / nucleus
+PDGFRB,nan,nan,nan,membrane / nucleus / lysosome
+PDIA3,nan,nan,nan,reticulum
+PDPK1,nan,nan,nan,membrane / nucleus / cytosol
+PDXP,binds CB1,nan,nan,cytosol
+PDZD8,mitochondria Ca2+ flux,nan,ER protein,endoplasmic
+PDZK1,nan,nan,nan,membrane / extracellular
+PEA15,nan,nan,nan,cytoskeleton / nucleus / cytosol
+PEF1,nan,nan,nan,extracellular / reticulum
+PHB2,nan,nan,nan,membrane / mitochondrion / nucleus
+PHB2,nan,nan,nan,membrane / mitochondrion / nucleus
+PHKA1,nan,nan,nan,cytosol
+PHKA2,nan,nan,nan,membrane / cytosol
+PHKB,nan,nan,nan,cytosol
+PHKG1,nan,nan,nan,cytosol
+PHKG2,nan,nan,nan,cytosol
+PI4K2A,nan,nan,nan,membrane
+PI4K2B,nan,nan,nan,cytosol
+PI4KA,nan,nan,nan,membrane
+PI4KB,nan,nan,nan,reticulum / endosome
+PICK1,nan,nan,nan,membrane / cytosol
+PIEZO1,PM,ER membrane,nan,membrane / plasma
+PIEZO2,PM,ER membrane,nan,membrane
+PIK3C2A,nan,nan,nan,membrane / nucleus / cytosol
+PIK3C2B,nan,nan,nan,membrane / nucleus / cytosol
+PIK3C2G,nan,nan,nan,cytosol
+PIK3C3,nan,nan,nan,cytoskeleton / endosome / cytosol / lysosome
+PIK3CA,nan,nan,nan,cytosol
+PIK3CB,nan,nan,nan,cytosol
+PIK3CD,nan,nan,nan,cytosol
+PIK3CG,nan,nan,nan,membrane / cytosol
+PIK3R1,nan,nan,nan,membrane / cytosol
+PIK3R2,nan,nan,nan,nucleus / cytosol
+PIK3R3,nan,nan,nan,cytosol
+PIK3R4,nan,nan,nan,cytoskeleton / endosome / cytosol
+PIK3R5,nan,nan,nan,cytosol
+PIK3R6,nan,nan,nan,membrane / cytosol
+PINK1,nan,nan,nan,mitochondrion / reticulum / cytosol
+PIP4K2A,nan,nan,nan,membrane / cytosol
+PIP4K2B,nan,nan,nan,membrane / nucleus
+PIP4K2C,nan,nan,nan,membrane / extracellular / nucleus / cytosol
+PIP4P1 ,nan,nan,nan,NA
+PIP4P2,nan,nan,nan,membrane / endosome / lysosome
+PIP5K1A,nan,nan,nan,membrane / nucleus / cytosol
+PIP5K1B,nan,nan,nan,cytosol
+PIP5K1C,nan,nan,nan,nucleus / endosome / cytosol
+PIP5KL1,nan,nan,nan,nucleus
+PITPNA,nan,nan,nan,cytosol
+PITPNB,nan,nan,nan,membrane
+PITPNC1,nan,nan,nan,nucleus / cytosol
+PITPNM1,nan,nan,nan,cytosol
+PITPNM2,nan,nan,nan,cytosol
+PITPNM3 ,nan,nan,nan,NA
+PKD1,ER membrane,nan,nan,membrane / extracellular
+PKD1L1,PM,priimary CIlia,nan,membrane
+PKD1L2,PM,nan,nan,membrane / extracellular / cytoskeleton / nucleus / cytosol
+PKD1L3,PM,nan,nan,membrane
+PKD2,PM,nan,nan,membrane / cytoskeleton / plasma
+PKD2L1,PM,priimary CIlia,nan,membrane
+PKD2L2,PM,nan,nan,membrane
+PLA2G10,nan,nan,nan,extracellular
+PLA2G12A,nan,nan,nan,extracellular
+PLA2G2A,nan,nan,nan,extracellular
+PLA2G2C,nan,nan,nan,membrane / cytoskeleton / nucleus / cytosol
+PLA2G2E,nan,nan,nan,extracellular
+PLA2G4A,cytosol,nan,nan,cytosol
+PLA2G4B,cytosol,nan,nan,extracellular / mitochondrion / endosome / cytosol
+PLA2G5,nan,nan,nan,extracellular
+PLCB1,cytosol,PM associated,nan,nucleus / cytosol
+PLCB2,cytosol,PM associated,nan,cytosol
+PLCB3,cytosol,PM associated,nan,cytosol
+PLCB4,cytosol,PM associated,nan,nucleus / reticulum
+PLCD1,cytosol,PM associated,nan,membrane / extracellular
+PLCD3,cytosol,PM associated,nan,membrane
+PLCD4,cytosol,PM associated,nan,cytosol
+PLCE1,cytosol,PM associated,nan,membrane / cytosol
+PLCG1,cytosol,PM associated,nan,membrane / nucleus / cytosol
+PLCG2,cytosol,PM associated,nan,membrane / cytosol
+PLCH1,cytosol,PM associated,nan,membrane
+PLCH2,cytosol,PM associated,nan,membrane
+PLCL1,nan,nan,nan,membrane / cytosol
+PLCL2,nan,nan,nan,membrane / extracellular / cytoskeleton / nucleus
+PLCZ1,nan,nan,nan,nucleus / cytosol
+PLN,ER membrane,nan,nan,reticulum
+PLS1,cytosol,microfilament,nan,extracellular / cytoskeleton
+PLS3,Cytosol,microfilament,nan,cytosol
+PLSCR1,nan,nan,nan,membrane / nucleus / cytosol
+PLSCR2,nan,nan,nan,reticulum
+PLSCR2,nan,nan,nan,reticulum
+PLSCR3,nan,nan,nan,membrane / mitochondrion / cytosol
+PLSCR4,nan,nan,nan,membrane
+PLSCR5,nan,nan,nan,membrane
+PML,nan,nan,modulation of IP3R phosphorylation and in turn for IP3R-mediated Ca2+ release from ER.,nucleus / endosome
+PNCK,nan,nan,nan,nucleus / cytosol
+PON1,nan,nan,nan,extracellular
+PON2,nan,nan,nan,extracellular
+PON3,nan,nan,nan,extracellular
+PPEF1,cytosol,nan,nan,nucleus / cytosol
+PPEF2,cytosol,nan,nan,nucleus / cytosol
+PPIA,nan,nan,nan,extracellular / nucleus / cytosol
+PPIF,Mito calcium,nan,nan,mitochondrion
+PPM1E,cytosol,nucleoplasm,nan,mitochondrion
+PPM1F ,cytosol,nucleoplasm,nan,NA
+PPP2R3A,cytosol,nan,nan,nucleus / cytosol
+PPP2R3B,cytosol,nan,nan,cytosol
+PPP2R3C,cytosol,nan,nan,cytoskeleton / nucleus
+PPP3CA,cytosol,nan,nan,membrane / nucleus / cytosol
+PPP3CB,cytosol,nan,nan,nucleus / cytosol
+PPP3CC,cytosol,nan,nan,cytosol
+PPP3R1,cytosol,nan,nan,membrane / nucleus / cytosol
+PPP3R2,cytosol,nan,nan,nucleus / cytosol
+PRF1,PM,nan,nan,extracellular / cytosol / lysosome
+PRF1,nan,nan,nan,extracellular / cytosol / lysosome
+PRKAA1,cytosol,nucleoplasm,nan,nucleus / cytosol
+PRKAA2,cytosol,nucleoplasm,nan,nucleus / cytosol
+PRKCA,nan,nan,nan,membrane / mitochondrion / nucleus / cytosol
+PRKCB,nan,nan,nan,membrane / nucleus / cytosol
+PRKCG,nan,nan,nan,cytosol
+PRKCSH,nan,nan,nan,endoplasmic
+PRKN,nan,nan,nan,nucleus / cytosol
+PRNP,nan,nan,nan,membrane / extracellular / mitochondrion / nucleus / cytosol
+PROKR1,nan,nan,nan,membrane
+PROKR2,nan,nan,nan,membrane
+PRSS1,nan,nan,nan,extracellular
+PSEN1,nan,nan,nan,membrane / cytoskeleton / mitochondrion / nucleus / plasma
+PSEN2,nan,nan,nan,membrane / cytoskeleton / nucleus
+PTAFR,nan,nan,nan,membrane
+PTEN ,nan,nan,nan,NA
+PTGDR2,nan,nan,nan,membrane
+PTGER3,nan,nan,nan,membrane
+PTGIR,nan,nan,nan,membrane
+PTH1R,nan,nan,nan,membrane
+PTK2B,nan,nan,nan,membrane / nucleus / cytosol
+PTK2B ,nan,nan,nan,NA
+PTPA,nan,nan,nan,nucleus
+PTPN11,nan,nan,nan,nucleus / cytosol
+PTPN6,nan,nan,nan,nucleus / cytosol
+PTPRQ,nan,nan,nan,membrane
+PVALB,cytosol,nan,nan,cytoskeleton / nucleus
+PVALEF,nan,nan,nan,NA
+PVALEF,nan,nan,nan,NA
+RAB11B,nan,nan,nan,cytosol
+RAB11FIP3,endosome,nan,nan,membrane / cytoskeleton / nucleus / endosome
+RAB11FIP4,endosome,nan,nan,membrane / endosome
+RAB3A,nan,nan,nan,cytosol
+RAC1,nan,nan,nan,membrane / endosome / cytosol
+RAF1 ,PM associated,nan,nan,NA
+RAPGEF4,nan,nan,nan,membrane
+RASA3,nan,nan,nan,membrane / cytosol
+RASA4,nan,nan,nan,membrane
+RASAL1,nan,nan,nan,cytosol
+RASEF,Golgi apparatus,ER ,cytosol,cytosol
+RASGRF1,nan,nan,nan,membrane / nucleus / cytosol
+RASGRF2,nan,nan,nan,membrane / plasma / cytosol
+RASGRP1,PM associated,ER membrane,nan,membrane / plasma / cytosol
+RASGRP2,PM associated,ER membrane,nan,membrane / cytosol
+RASGRP3,PM associated,ER membrane,nan,membrane
+RASGRP4,nan,nan,nan,membrane / cytosol
+RB1,nucleus,nan,nan,nucleus
+RBBP4,nan,nan,nan,nucleus / cytosol
+RBL1,nan,nan,nan,nucleus
+RBL2,nan,nan,nan,nucleus / cytosol
+RCAN1,nan,nan,nan,nucleus / cytosol
+RCAN2,nan,nan,nan,nucleus
+RCAN3,nan,nan,nan,nucleus
+RCN1,nan,nan,nan,endoplasmic
+RCN2,nan,nan,nan,endoplasmic
+RCN3,nan,nan,nan,endoplasmic
+RCVRN,PM associated,cytosol,nan,cytosol
+REG1A,nan,nan,nan,extracellular
+REG1B,nan,nan,nan,nucleus
+REG3A,nan,nan,nan,extracellular
+REG3G,nan,nan,nan,extracellular
+REG4,nan,nan,nan,extracellular
+RELA,nan,nan,nan,nucleus / cytosol
+REM1,PM,nan,nan,membrane
+REM2,PM,nan,nan,membrane
+REPS1,cytosol,nan,nan,membrane / cytosol
+REPS2,cytosol,nan,nan,cytosol
+RGN,nan,nan,nan,nucleus
+RGS2,nan,nan,nan,membrane / nucleus / cytosol
+RGS4,nan,nan,nan,nucleus
+RHBDL2,PM ,nan,nan,membrane
+RHBDL3,PM ,ER membrane,nan,membrane
+RHOA,nan,nan,nan,membrane / extracellular / cytosol
+RHOT1,Mitochondrion outer membrane,nan,nan,mitochondrion
+RHOT2,Mitochondrion outer membrane,nan,nan,mitochondrion
+RIMS1 ,nan,nan,nan,NA
+RIMS2 ,nan,nan,nan,NA
+RIMS3,nan,nan,nan,membrane / cytoskeleton
+RIPK2,nan,nan,nan,cytoskeleton / cytosol
+RIPK3,nan,nan,nan,nucleus / cytosol
+RNF170,nan,nan,nan,membrane
+RPH3A,ca2+ binding,nan,nan,membrane / cytosol
+RPH3A ,synaptic vesicle membrane,nan,nan,NA
+RPTN,extracellular matrix,nan,nan,membrane
+RRAD,PM,nan,nan,cytosol
+RTN4,nan,nan,nan,membrane / nucleus / plasma
+RYR1,SR membrane,ER membrane,nan,membrane / plasma
+RYR2,SR membrane,ER membrane,nan,membrane / plasma
+RYR3,SR membrane,ER membrane,nan,membrane
+S100A1,nan,nan,nan,reticulum / cytosol
+S100A10,nan,nan,nan,extracellular / cytosol
+S100A11,nan,nan,nan,nucleus
+S100A12,nan,nan,nan,membrane / extracellular / cytoskeleton / nucleus / cytosol
+S100A13,nan,nan,nan,membrane / extracellular / nucleus / cytosol
+S100A14,nan,nan,nan,extracellular
+S100A16,nan,nan,nan,nucleus / cytosol
+S100A2,nan,nan,nan,cytosol
+S100A3,nan,nan,nan,cytosol
+S100A4,nan,nan,nan,extracellular / nucleus
+S100A5,nan,nan,nan,nucleus
+S100A6,nan,nan,nan,membrane / nucleus / cytosol
+S100A7,nan,nan,nan,nucleus / reticulum / cytosol
+S100A7a,nan,nan,nan,extracellular
+S100A7L2,nan,nan,nan,extracellular
+S100A8,nan,nan,nan,membrane / extracellular / cytoskeleton / nucleus / cytosol
+S100A9,nan,nan,nan,membrane / extracellular / cytoskeleton / nucleus / cytosol
+S100B,nan,nan,nan,extracellular / nucleus / cytosol
+S100G,nan,nan,nan,extracellular / cytosol
+S100P,Cytosol ,Nucleoplasm,nan,membrane / nucleus
+S100Z,Cytosol ,Nucleoplasm,nan,cytosol
+S1PR4 ,nan,nan,nan,NA
+SACM1L,nan,nan,nan,membrane / cytosol
+SARAF,ER membrane,nan,nan,endoplasmic
+SCGN,cytosol,secretory granules ,nan,cytosol
+SCHIP1,nan,nan,nan,membrane
+SCIN,nan,nan,nan,membrane
+SCIN,nan,nan,nan,membrane
+SDF4,nan,nan,nan,extracellular
+SEC24A,nan,nan,nan,cytosol
+SEC61A1,ER membrane,nan,nan,endoplasmic
+SEC61A2,ER membrane,nan,nan,membrane
+SEC61B,ER membrane,nan,nan,endoplasmic
+SEC61G,ER membrane,nan,nan,endoplasmic / cytosol
+SEC62,ER membrane,nan,nan,endoplasmic
+SEC63,ER membrane,nan,nan,endoplasmic
+SELENOF,nan,nan,nan,extracellular / nucleus
+SELENOK,nan,nan,nan,endoplasmic
+SELENOM,nan,nan,nan,extracellular / cytosol
+SELENON,nan,nan,nan,endoplasmic
+SELENOS,nan,nan,nan,cytoskeleton / reticulum
+SELENOT,nan,nan,nan,endoplasmic
+SELL,nan,nan,Ca2+ binding,membrane
+SEPTIN4,PM associated,cytosol,nan,cytoskeleton / mitochondrion / nucleus
+SEPTIN7,PM associated,cytosol,nan,cytoskeleton / nucleus / cytosol
+SESTD1,nan,Ca2+ entry,nan,cytoskeleton
+SH2D1A,nan,nan,nan,cytosol
+SH2D1B,nan,nan,nan,cytosol
+SH3RF1,Golgi apparatus,perinuclear region,nan,cytosol
+SHH,nan,nan,nan,membrane / extracellular
+SIGLEC8,PM,nan,nan,membrane
+SIGMAR1,ER membrane,nan,nan,nucleus / reticulum
+SLA,nan,nan,nan,cytosol
+SLA2,nan,nan,nan,membrane / endosome / cytosol
+SLA2,nan,nan,nan,membrane / endosome / cytosol
+SLAMF1,nan,nan,nan,membrane / extracellular
+SLAMF7,nan,nan,nan,membrane
+SLC10A7,PM,ER membrane,nan,membrane / plasma
+SLC24A1,PM,nan,nan,membrane
+SLC24A2 ,PM,nan,nan,NA
+SLC24A3,PM,nan,nan,membrane
+SLC24A4,PM,nan,nan,membrane
+SLC24A5,PM,nan,nan,membrane
+SLC25A12,nan,nan,nan,mitochondrion
+SLC25A13,nan,nan,nan,membrane / mitochondrion
+SLC25A23,nan,nan,nan,mitochondrion
+SLC25A24,nan,nan,nan,mitochondrion
+SLC25A25,nan,nan,nan,mitochondrion
+SLC35G1,nan,nan,nan,membrane / plasma
+SLC5A11,nan,nan,nan,membrane
+SLC5A3,nan,nan,nan,membrane
+SLC8A1,PM,ER membrane,inner mitochondria membrane,membrane
+SLC8A2,PM,ER membrane,inner mitochondria membrane,membrane
+SLC8A3,PM,ER membrane,inner mitochondria membrane,membrane
+SLC8B1,nan,nan,nan,membrane / mitochondrion
+SLC9A1,PM,ER,nan,membrane / nucleus
+SLC9A3 ,nan,nan,nan,NA
+SLC9A3R2,nan,nan,nan,membrane
+SLC9A3R2 ,nan,nan,nan,NA
+SLN,ER membrane,SR membrane,nan,endoplasmic
+SMAD1,nan,nan,nan,nucleus / cytosol
+SMAD2 ,nan,nan,nan,NA
+SMARCA4,nan,nan,nan,nucleus
+SMDT1,Mitochondria inner membrane,nan,nan,mitochondrion / nucleus
+SMOC1,Extracellular matrix ,nan,nan,extracellular
+SMOC2,Extracellular matrix ,nan,nan,extracellular
+SMPD1,nan,nan,nan,membrane / extracellular / endosome / lysosome
+SMTNL1,myofibril,nan,nan,nucleus
+SNAP25,nan,nan,nan,membrane / cytoskeleton / cytosol
+SNAPIN,Ca2+ release,nan,nan,cytosol
+SNCA,PM associated,Mitochondria-associated ER membranes,cytosol,membrane / extracellular / cytoskeleton / mitochondrion / nucleus / cytosol / lysosome
+SNTA1 ,nan,nan,nan,NA
+SNTB1,nan,nan,nan,membrane / cytoskeleton
+SNTN,Cilia,nan,nan,membrane / cytoskeleton
+SP4,nan,nan,nan,nucleus
+SPARC,extracellular matrix,secreted protein,nan,nucleus
+SPARCL1,extracellular matrix,secreted protein,nan,extracellular
+SPATA21,cytosol,vesicles,nan,mitochondrion / peroxisome / nucleus
+SPEG,nan,nan,nan,nucleus
+SPG7,MCU regulation,nan,nan,mitochondrion
+SPHK1,Ca2+ influx,CaMKII interaction,nan,membrane / endosome / cytosol
+SPHK1 ,nan,nan,nan,NA
+SPHK2,Ca2+ influx,nan,nan,nucleus / cytosol
+SPOCK1,secreted protein,extracellular matrix,nan,extracellular
+SPOCK2,secreted protein,extracellular matrix,nan,nucleus
+SPOCK3,secreted protein,extracellular matrix,nan,membrane / cytoskeleton / nucleus
+SPPL3,ER,Golgi apparatus,nan,membrane / plasma
+SPR,nan,nan,nan,cytosol
+SPTA1,nan,nan,nan,cytoskeleton
+SPTAN1,cytoskeleton ,nan,nan,cytoskeleton / cytosol
+SPTBN1 ,nan,nan,nan,NA
+SPTBN2,nan,nan,nan,cytoskeleton / cytosol
+SRI,cytosol,nan,nan,extracellular / nucleus / reticulum / cytosol
+SRL,nan,nan,nan,extracellular
+SRR,ca2+ regulated,nan,nan,cytosol
+SRY,cytosol,nucleus,nan,NA
+SS18L1,nan,nan,nan,nucleus
+SSH1 ,nan,nan,nan,NA
+SSTR2,nan,nan,nan,membrane
+STAC ,cytosol,nan,nan,NA
+STAC2,cytosol,nan,nan,membrane / cytosol
+STAC3,cytosol,nan,nan,nucleus / cytosol
+STC2,ER lumen,Golgi appratus,secreted protein,reticulum
+STIM1 ,ER membrane,nan,nan,NA
+STIM2 ,ER membrane,nan,nan,NA
+STIMATE,ER membrane,ER-PM  junction,nan,endoplasmic
+STING1,ER membrane,nan,nan,membrane / plasma / endosome
+STOML2,nan,Mito Ca2+,nan,membrane / mitochondrion
+STRIT1,ER membrane,nan,nan,NA
+STRN,PM associated,cytosol,nan,cytosol
+STRN3,PM associated,cytosol,nan,membrane / nucleus
+STRN4 ,PM associated,cytosol,nan,NA
+STX1A,nan,nan,nan,membrane / cytosol
+STX1B,nan,nan,nan,cytosol
+STXBP1,nan,nan,nan,membrane / nucleus / cytosol
+STXBP5,nan,nan,nan,cytosol
+SUMO2,nan,nan,nan,nucleus
+SURF4,ER membrane,Golgi appratus membrane,ERGIC,membrane
+SWAP70,nan,nan,nan,membrane / cytoskeleton / nucleus / cytosol
+SYK,nan,nan,nan,membrane / nucleus / cytosol
+SYNJ1,nan,nan,nan,cytosol
+SYNJ2 ,nan,nan,nan,NA
+SYNRG,nan,nan,nan,membrane / cytoskeleton / endosome / lysosome
+SYT1,secretory vesicles membrane,PM-bound,nan,membrane / cytosol
+SYT10,secretory vesicles membrane,PM-bound,nan,membrane
+SYT2,secretory vesicles membrane,PM-bound,nan,membrane / cytosol
+SYT3,secretory vesicles membrane,PM-bound,nan,membrane / endosome / cytosol
+SYT4,secretory vesicles membrane,PM-bound,nan,membrane / cytosol
+SYT5,secretory vesicles membrane,PM-bound,nan,membrane / endosome
+SYT6,secretory vesicles membrane,PM-bound,nan,cytosol
+SYT7,secretory vesicles membrane,PM-bound,nan,extracellular
+SYT9,secretory vesicles membrane,PM-bound,nan,membrane / cytosol
+TACR1,nan,nan,nan,membrane
+TACSTD2,nan,nan,nan,membrane
+TAS2R10,nan,nan,nan,membrane
+TAS2R16,nan,nan,nan,membrane
+TAS2R3,nan,nan,nan,membrane
+TAS2R4,nan,nan,nan,membrane
+TAS2R40,nan,nan,nan,membrane
+TAS2R43,nan,nan,nan,membrane
+TAS2R46,nan,nan,nan,membrane
+TAS2R7,nan,nan,nan,membrane
+TAS2R9,nan,nan,nan,membrane
+TBC1D10C,nucleus,nan,nan,membrane
+TBC1D8B,nan,nan,nan,cytosol
+TBC1D9,nan,nan,nan,cytosol
+TBC1D9B,nan,nan,nan,cytosol
+TBXA2R,nan,nan,nan,membrane
+TCHH,cytosol,cytoskeleton,nan,cytoskeleton / cytosol
+TCHHL1,cytosol,cytoskeleton,nan,nucleus / cytosol
+TCP1,cytosol,nan,nan,cytoskeleton / cytosol
+TEC ,nan,nan,nan,NA
+TESC,Cytosol,PM-bound,nan,membrane / nucleus / cytosol
+TESPA1,nan,nan,nan,reticulum
+TFEB,nan,nan,nan,nucleus / cytosol / lysosome
+TGM2,nan,nan,nan,membrane / extracellular / mitochondrion / nucleus / cytosol
+TGM3,nan,nan,nan,membrane
+THBS1,nan,nan,nan,membrane / extracellular
+THBS4,nan,nan,nan,extracellular
+TIAM1,nan,nan,nan,membrane / cytosol
+TIAM2,nan,nan,nan,cytosol
+TLCD1,nan,nan,nan,membrane
+TLR9,nan,nan,nan,membrane / extracellular / plasma / endosome / lysosome
+TMBIM1,nan,nan,nan,membrane / endosome / lysosome
+TMBIM4 ,nan,nan,nan,NA
+TMBIM6,ER,nan,nan,membrane
+TMC1,ER,nan,nan,membrane
+TMC2 ,ER,nan,nan,NA
+TMC3,ER,nan,nan,membrane
+TMC4,ER,nan,nan,membrane / extracellular
+TMC5,ER,nan,nan,membrane / extracellular
+TMC6 ,ER,nan,nan,NA
+TMC8 ,ER,nan,nan,NA
+TMCO1,ER,nan,nan,extracellular
+TMEM100,nan,nan,nan,membrane / plasma
+TMEM165,nan,nan,nan,endosome / lysosome
+TMEM178A,ER membrane,nan,nan,membrane
+TMEM203,ER membrane,nan,nan,endoplasmic
+TMEM30A ,nan,nan,nan,NA
+TMEM37 ,nan,nan,nan,NA
+TMEM38A,SR,ER,nan,nucleus / reticulum
+TMEM38B,SR,ER,nan,reticulum
+TMEM63A,nan,nan,nan,membrane / lysosome
+TMEM63A ,PM,nan,nan,NA
+TMEM63B,nan,nan,nan,membrane
+TMEM63B ,PM,nan,nan,NA
+TMEM63C,PM,nan,nan,membrane
+TMEM63C,nan,nan,nan,membrane
+TMEM97 ,nan,nan,nan,NA
+TNFRSF13B ,nan,nan,nan,NA
+TNNC1,cytosol,cytoskeleton,nan,cytoskeleton / cytosol
+TNNC2,cytosol,cytoskeleton,nan,cytoskeleton / cytosol
+TNNI1,nan,nan,nan,cytosol
+TNNI2,nan,nan,nan,cytoskeleton / nucleus
+TNNI3,nan,nan,nan,cytoskeleton
+TNNT3,nan,nan,nan,cytoskeleton
+TOX3,calcium-dependent transactivator,nan,nan,nucleus
+TPCN1,endosome,lysosomes,nan,endosome / lysosome
+TPCN2,endosome,lysosomes,nan,endosome / lysosome
+TPH2,nan,nan,nan,cytosol
+TPT1,Ca2+ regulated,nan,nan,extracellular / cytoskeleton / nucleus / endosome / cytosol
+TRDN,nan,nan,nan,membrane / plasma / cytosol
+TREM2,nan,nan,nan,membrane / extracellular
+TRHR,nan,nan,nan,membrane
+TRPA1,PM,nan,nan,membrane
+TRPC1,PM,nan,nan,membrane
+TRPC3,PM,nan,nan,membrane
+TRPC4,PM,nan,nan,membrane / cytoskeleton
+TRPC5,PM,nan,nan,membrane
+TRPC6,PM,nan,nan,membrane
+TRPC7,PM,nan,nan,membrane
+TRPM1,PM,lysosome membrane,nan,membrane
+TRPM2,PM,lysosome membrane,nan,membrane / lysosome
+TRPM3,PM,nan,nan,membrane
+TRPM4,PM,nan,nan,membrane / nucleus / plasma
+TRPM5,PM,nan,nan,membrane
+TRPM6,PM,nan,nan,membrane
+TRPM7,PM,nan,nan,membrane
+TRPM8,PM,ER membrane,nan,membrane / plasma
+TRPV1,PM,ER membrane,nan,membrane
+TRPV2,PM,endosome/lysosome membrane,nan,membrane
+TRPV3,PM,nan,nan,membrane
+TRPV4,PM,nan,nan,membrane
+TRPV5,PM,nan,nan,membrane
+TRPV6,PM,nan,nan,membrane
+TSPAN13,nan,nan,nan,membrane
+TSPAN7,nan,nan,nan,membrane
+TSPO,nan,nan,nan,extracellular / mitochondrion / cytosol
+TSPO,Mitochondria outer membrane,nan,nan,extracellular / mitochondrion / cytosol
+TTYH1,PM,ER membrane,nan,membrane
+TTYH2,PM,ER membrane,nan,membrane
+TTYH3,PM,ER membrane,nan,membrane
+TUSC2,nan,nan,nan,mitochondrion
+TXK ,nan,nan,nan,NA
+UBQLN1,nan,nan,nan,membrane / nucleus / plasma / cytosol
+UBR4 ,nan,nan,nan,NA
+UMOD,interacts with TRPV5,nan,nan,membrane / extracellular / cytoskeleton
+UNC13A ,PM associated,vesicle membrane,nan,NA
+UNC13B ,PM associated,vesicle membrane,nan,NA
+UNC13C,PM associated,vesicle membrane,nan,membrane
+UNC13D,nan,nan,nan,endosome / cytosol / lysosome
+UNC93B1,ER membrane,nan,nan,endoplasmic / endosome
+USP32,Golgi apparatus,nan,nan,membrane / cytoskeleton / mitochondrion / endosome / lysosome
+USP6 ,PM,endosome,nan,NA
+UTRN,cytoskeleton ,cytosol,nan,membrane / cytoskeleton / nucleus
+VAMP2 ,nan,nan,nan,NA
+VAPA,ER membrane,Mitochondria-associated ER membranes,nan,membrane / plasma / cytosol
+VAPB,ER membrane,Mitochondria-associated ER membranes,nan,membrane
+VCAM1,nan,nan,nan,membrane / extracellular / cytoskeleton / plasma / endosome
+VCP,nan,nan,nan,nucleus / reticulum / cytosol
+VDAC1 ,Mitochondria outer membrane,Mitochondria-associated ER membranes,nan,NA
+VDAC2,Mitochondria outer membrane,Mitochondria-associated ER membranes,nan,mitochondrion / nucleus
+VDAC3,Mitochondria outer membrane,Mitochondria-associated ER membranes,nan,mitochondrion
+VIL1,nan,nan,nan,membrane / cytoskeleton
+VSNL1,cytosol,PM-bound,nan,cytosol
+VSTM4 ,nan,nan,nan,NA
+WDRR37,nan,nan,nan,NA
+WFS1,nan,nan,nan,endoplasmic
+WFS1,nan,nan,nan,endoplasmic
+ZAP70,nan,nan,nan,membrane / cytosol
+ZZEF1,nucleus,mitochondria,nan,membrane / cytosol
